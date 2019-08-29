@@ -1,0 +1,11 @@
+{
+  "name": "baidu-template-pro",
+  "version": "1.0.0",
+  "description": "modify baidutemplate",
+  "main": "baiduTemplatePro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangxiang",
+  "license": "ISC"
+}
